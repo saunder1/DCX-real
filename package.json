@@ -1,0 +1,26 @@
+{
+  "name": "starterkit4",
+  "version": "1.0.0",
+  "description": "Basic 11ty Starterkit",
+  "main": "index.js",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saunder1/starterkit4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/saunder1/starterkit4/issues"
+  },
+  "homepage": "https://github.com/saunder1/starterkit4#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.2"
+  }
+}
